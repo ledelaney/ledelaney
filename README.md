@@ -1,6 +1,6 @@
 ### what's happening
 
-recent projects and cv pinned below. interested in making work easier with `R`, and making nice looking stuff with various markup languages.
+recent projects and cv pinned below. generally interested in making work easier with `R`, and making nice looking stuff with various markup languages.
 
 :lips: talks: 
 + [Evolution Conference, June 2021 (upcoming)](https://github.com/ledelaney/06-21-Evolution)
