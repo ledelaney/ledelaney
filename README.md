@@ -1,13 +1,13 @@
 ### what's happening
 
-recent projects and cv pinned below.
+recent projects and cv pinned below. interested in making work easier with `R`, and making nice looking stuff with various markup languages.
 
-talks: 
+:lips: talks: 
 + [Evolution Conference, June 2021 (upcoming)](https://github.com/ledelaney/06-21-Evolution)
 + [Midwest Ecology and Evolution Conference, March 2021 (awarded best graduate talk)](https://github.com/ledelaney/03-21-MEEC)
 + [Society for the Advancement of Biology Education Research West, January 2021 (virtual roundtable)](https://github.com/ledelaney/01-21-SABERwest)
 
-materials & tutorials:
+:open_book: materials & tutorials:
 + [Resources for categorical data analysis](https://github.com/ledelaney/analyzing-ur-categorical-data)
 + [UIC Biological Sciences Department remote teaching resources](https://github.com/ledelaney/cb-materials)
 + [Using BibTeX and Zotero for citation management](https://github.com/ledelaney/BibTeXforBrownLab)
