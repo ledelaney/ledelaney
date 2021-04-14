@@ -1,5 +1,7 @@
 ### what's happening
 
+recent projects and cv pinned below.
+
 talks: 
 + [Evolution Conference, June 2021 (upcoming)](https://github.com/ledelaney/06-21-Evolution)
 + [Midwest Ecology and Evolution Conference, March 2021 (awarded best graduate talk)](https://github.com/ledelaney/03-21-MEEC)
