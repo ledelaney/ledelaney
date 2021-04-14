@@ -1,5 +1,3 @@
-### what's happening
-
 recent projects and cv pinned below. generally interested in making work easier with `R`, and making nice looking stuff with various markup languages.
 
 :lips: talks: 
