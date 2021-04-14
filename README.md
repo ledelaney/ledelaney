@@ -1,16 +1,13 @@
-### Hi there 👋
+### what's happening
 
-<!--
-**ledelaney/ledelaney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+talks: 
++ [Evolution Conference, June 2021 (upcoming)](https://github.com/ledelaney/06-21-Evolution)
++ [Midwest Ecology and Evolution Conference, March 2021 (awarded best graduate talk)](https://github.com/ledelaney/03-21-MEEC)
++ [Society for the Advancement of Biology Education Research West, January 2021 (virtual roundtable)](https://github.com/ledelaney/01-21-SABERwest)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+materials & tutorials:
++ [Resources for categorical data analysis](https://github.com/ledelaney/analyzing-ur-categorical-data)
++ [UIC Biological Sciences Department remote teaching resources](https://github.com/ledelaney/cb-materials)
++ [Using BibTeX and Zotero for citation management](https://github.com/ledelaney/BibTeXforBrownLab)
++ [General Ecology homework implemented in `R`](https://github.com/ledelaney/GeneralEcologyMaterials)
++ [Documents for BIOS 220 homework and lectures](https://github.com/ledelaney/Genetics220)
