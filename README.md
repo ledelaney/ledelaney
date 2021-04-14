@@ -1,4 +1,4 @@
-recent projects and cv materials pinned below. generally interested in better biology education, making nice looking stuff with various markup languages, and making stuff easier with `R`. 
+recent projects and cv materials pinned below. generally interested in bettering biology education, making nice looking stuff with various markup languages, and making stuff easier with `R`. 
 
 :lips: talks: 
 + [Evolution Conference, June 2021 (upcoming)](https://github.com/ledelaney/06-21-Evolution)
