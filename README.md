@@ -1,4 +1,4 @@
-recent projects and cv pinned below. generally interested in making work easier with `R`, and making nice looking stuff with various markup languages.
+recent projects and cv materials pinned below. generally interested in better biology education, making nice looking stuff with various markup languages, and making stuff easier with `R`. 
 
 :lips: talks: 
 + [Evolution Conference, June 2021 (upcoming)](https://github.com/ledelaney/06-21-Evolution)
@@ -10,4 +10,4 @@ recent projects and cv pinned below. generally interested in making work easier 
 + [UIC Biological Sciences Department remote teaching resources](https://github.com/ledelaney/cb-materials)
 + [Using BibTeX and Zotero for citation management](https://github.com/ledelaney/BibTeXforBrownLab)
 + [General Ecology homework implemented in `R`](https://github.com/ledelaney/GeneralEcologyMaterials)
-+ [Documents for BIOS 220 homework and lectures](https://github.com/ledelaney/Genetics220)
++ [Blank documents for BIOS 220 homework and lectures](https://github.com/ledelaney/Genetics220)
