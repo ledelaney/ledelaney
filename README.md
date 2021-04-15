@@ -1,3 +1,5 @@
+## :vulcan_salute: :full_moon_with_face: :yellow_heart:
+
 recent projects and cv materials pinned below. generally interested in bettering biology education, making nice looking stuff with various markup languages, and making stuff easier with `R`. 
 
 :lips: talks: 
