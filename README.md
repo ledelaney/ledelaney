@@ -11,5 +11,5 @@ recent projects and cv materials pinned below. generally interested in bettering
 + [resources for categorical data analysis](https://github.com/ledelaney/analyzing-ur-categorical-data)
 + [UIC Biological Sciences Department remote teaching resources](https://github.com/ledelaney/cb-materials)
 + [using BibTeX and Zotero for citation management](https://github.com/ledelaney/BibTeXforBrownLab)
-+ [general Ecology homework implemented in `R`](https://github.com/ledelaney/GeneralEcologyMaterials)
++ [General Ecology homework implemented in `R`](https://github.com/ledelaney/GeneralEcologyMaterials)
 + [blank documents for BIOS 220 homework and lectures](https://github.com/ledelaney/Genetics220)
