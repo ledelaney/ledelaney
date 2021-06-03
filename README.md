@@ -11,8 +11,8 @@ recent projects and cv materials pinned below. generally interested in bettering
 + [HON 301: Foundations for the Future](https://github.com/ledelaney/future-foundations)
 + [BIOS 196: Biology Colloquium](https://github.com/ledelaney/bcq)
 + [UIC Biological Sciences Department remote teaching resources](https://github.com/ledelaney/cb-materials)
-+ [blank documents for BIOS 220 homework and lectures](https://github.com/ledelaney/Genetics220)
-+ [BIOS 331 General Ecology homework implemented in `R`](https://github.com/ledelaney/GeneralEcologyMaterials)
++ [BIOS 220: blank documents for homework and lectures](https://github.com/ledelaney/Genetics220)
++ [BIOS 331: General Ecology homework implemented in `R`](https://github.com/ledelaney/GeneralEcologyMaterials)
 
 :open_book: materials & tutorials:
 + [resources for categorical data analysis](https://github.com/ledelaney/analyzing-ur-categorical-data)
