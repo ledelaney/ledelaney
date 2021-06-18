@@ -3,7 +3,7 @@
 recent projects and cv materials pinned below. generally interested in bettering biology education, making nice looking stuff with various markup languages, and making stuff easier with `R`. 
 
 :lips: talks: 
-+ [Botany Conference, July 2021 | upcoming]
++ [Botany Conference, July 2021 | upcoming](https://github.com/ledelaney/07-21-Botany)
 + [Evolution Conference, June 2021 | virtual talk](https://github.com/ledelaney/06-21-Evolution)
 + [Midwest Ecology and Evolution Conference, March 2021 | awarded best graduate talk](https://github.com/ledelaney/03-21-MEEC)
 + [Society for the Advancement of Biology Education Research West, January 2021 | virtual roundtable](https://github.com/ledelaney/01-21-SABERwest)
