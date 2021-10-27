@@ -3,8 +3,8 @@
 recent projects and cv materials pinned below. generally interested in bettering biology education, making nice looking stuff with various markup languages, and making stuff easier with `R`. 
 
 :lips: recent talks: 
-+ [University of Illinois at Chicago | virtual PhD defense spooktacular](https://github.com/ledelaney/10-21-Defense)
-+ [University of California, Riverside | virtual seminar](https://github.com/ledelaney/08-21-UCR)
++ [University of Illinois at Chicago, October 2021 | virtual PhD defense spooktacular](https://github.com/ledelaney/10-21-Defense)
++ [University of California, Riverside, August 2021 | virtual seminar](https://github.com/ledelaney/08-21-UCR)
 + [Annual Meeting of the Botanical Society of America, July 2021 | virtual talk](https://github.com/ledelaney/07-21-Botany)
 + [Annual Meeting of the Society for the Advancement of Biology Education Research, July 2021 | virtual talk](https://github.com/ledelaney/07-21-SABER)
 
