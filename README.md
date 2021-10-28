@@ -1,6 +1,6 @@
 ## :vulcan_salute: :full_moon_with_face: :yellow_heart:
 
-recent projects and cv materials pinned below. generally interested in bettering biology education, making nice looking stuff with various markup languages, and making stuff easier with `R`. 
+generally interested in bettering biology education, making nice looking stuff with various markup languages, and making stuff easier with `R`. 
 
 :lips: recent talks: 
 + [University of Illinois at Chicago, October 2021 | virtual PhD defense spooktacular](https://github.com/ledelaney/10-21-Defense)
