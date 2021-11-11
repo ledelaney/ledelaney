@@ -1,4 +1,4 @@
-## :vulcan_salute: :full_moon_with_face: :yellow_heart:
+## :vulcan_salute: :lemon: :yellow_heart:
 
 generally interested in bettering biology education, making nice looking stuff with various markup languages, and making stuff easier with `R`. 
 
