@@ -9,6 +9,7 @@ generally interested in bettering biology education, making nice looking stuff w
 + [Annual Meeting of the Society for the Advancement of Biology Education Research, July 2021 | virtual talk](https://github.com/ledelaney/07-21-SABER)
 
 :school_satchel: course materials & websites:
++ [BIOL 002: Cellular Basis of Life](https://github.com/ledelaney/biol002)
 + [HON 301: Foundations for the Future](https://github.com/ledelaney/future-foundations)
 + [BIOS 196: Biology Colloquium](https://github.com/ledelaney/bcq)
 + [UIC Biological Sciences Department remote teaching resources](https://github.com/ledelaney/cb-materials)
