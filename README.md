@@ -10,6 +10,7 @@ generally interested in the work of sensemaking, making nice looking stuff with 
 + [Annual Meeting of the Botanical Society of America, July 2021 | virtual talk](https://github.com/ledelaney/07-21-Botany)
 + [Annual Meeting of the Society for the Advancement of Biology Education Research, July 2021 | virtual talk](https://github.com/ledelaney/07-21-SABER)
 + [Annual Meeting of the Society for the Study of Evolution, June 2021 | virtual talk](https://github.com/ledelaney/06-21-Evolution)
++ [Midwest Ecology and Evolution Conference, March 2021 | virtual talk](https://github.com/ledelaney/03-21-MEEC)
 
 :school_satchel: course materials & websites:
 + [BIOL 002: Cellular Basis of Life](https://github.com/ledelaney/biol002)
