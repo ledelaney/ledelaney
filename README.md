@@ -2,7 +2,9 @@
 
 generally interested in the work of sensemaking, making nice looking stuff with various markup languages, and making stuff easier with `R`. 
 
-:lips: recent talks: 
+:lips: recent talks, etc: 
++ [RIDLE 4X Showcase Event, December 2023 | talk](https://github.com/ledelaney/12-23-RIDLE)
++ [Deep Teaching Residency Program, July 2022 | poster presentation](https://github.com/ledelaney/07-22-DTR)
 + [University of Illinois at Chicago, October 2021 | virtual PhD defense spooktacular](https://github.com/ledelaney/10-21-Defense)
 + [University of California, Riverside, August 2021 | virtual seminar](https://github.com/ledelaney/08-21-UCR)
 + [Annual Meeting of the Botanical Society of America, July 2021 | virtual talk](https://github.com/ledelaney/07-21-Botany)
