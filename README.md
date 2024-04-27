@@ -1,6 +1,6 @@
-## :vulcan_salute: :lemon: :yellow_heart:
+## :tv: :orange_heart: :skull:
 
-generally interested in bettering biology education, making nice looking stuff with various markup languages, and making stuff easier with `R`. 
+generally interested in the work of sensemaking, making nice looking stuff with various markup languages, and making stuff easier with `R`. 
 
 :lips: recent talks: 
 + [University of Illinois at Chicago, October 2021 | virtual PhD defense spooktacular](https://github.com/ledelaney/10-21-Defense)
